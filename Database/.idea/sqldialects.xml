@@ -3,5 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Inserts.sql" dialect="OracleSqlPlus" />
     <file url="file://$PROJECT_DIR$/Odonto-creatingTables.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/Procedures.sql" dialect="OracleSqlPlus" />
+    <file url="PROJECT" dialect="OracleSqlPlus" />
   </component>
 </project>
